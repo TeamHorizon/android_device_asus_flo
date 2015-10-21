@@ -1,0 +1,20 @@
+[
+ {
+   "remote": "cm",
+   "repository": "android_kernel_google_msm",
+   "target_path": "kernel/google/msm",
+	"revision": "cm-13.0"
+ },
+ { 
+ 	"remote": "th",
+    "repository": "android_vendor_asus",
+    "target_path": "vendor/asus",
+    "revision": "mm"
+  },
+  { 
+ 	"remote": "aosp",
+    "repository": "device/asus/flo-kernel",
+    "target_path": "device/asus/flo-kernel",
+    "revision": "refs/tags/android-6.0.0_r1"
+  }
+]
